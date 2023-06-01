@@ -13,6 +13,10 @@ The repository contains the following files and directories:
 README.md: This file, which provides an overview of the project. For more information about the functionality
 of Team Moby Dock's Project, please reference our diagram: https://rb.gy/hj9re
 
+**NOTE** 
+
+These files encapsulate the final deliverables of my side of the Cybot Mission & Docking Project 
+
 --------------------------------------------------------------------------------------------------------------------------
 
 Project Description
@@ -26,7 +30,7 @@ predefined boundaries, avoid tall objects, touch short objects only once, and ev
 Team Moby Dock identifies three main areas: Cybot Mission Algorithms, GUI Design, and Dynamic Controlling. 
 Our group concentrated on developing algorithms for detecting and avoiding obstacles w/ Embedded C Language. 
 Additionally, we leveraged WebSockets and a Python GUI Design to create a user-friendly interface. On the hardware 
-side, we used a PS4 Controller to control the iRobot. The controlled linked VIA Bluetooth to a Raspberry Pi B+ while
+side, we used a PS4 Controller to control the iRobot (MY SIDE). The controlled linked VIA Bluetooth to a Raspberry Pi B+ while
 the Pi connected w/ the Baseboard of the iRobot VIA Universal Asynchronous Receiver-Transmitter Communication (UART).
 
 --------------------------------------------------------------------------------------------------------------------------
